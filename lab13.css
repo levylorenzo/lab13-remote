@@ -1,0 +1,24 @@
+
+
+p{
+	color:  green;
+	font-family: sans-serif;
+	margin-left: 40px
+}
+
+h1{
+
+	font-family: sans-serif;
+	color:  #A0F0F0;
+}
+
+.active {
+
+
+	    border-style: dashed;
+    border-width: 2px;
+    border-left-width: 2px;
+    border-right-width: 2px;
+    border-color: black;
+
+}
